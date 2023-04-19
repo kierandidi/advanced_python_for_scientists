@@ -18,9 +18,9 @@ For questions write in the course discord or drop me a mail: kieran.didi@stud.un
 
 ## Overview of the course
 
-**19.11**|**20.11**|**26.11**|**27.11**
+**03.06**|**04.06**|**10.06**|**11.06**
 :-----:|:-----:|:-----:|:-----:
-*Python I*|*Python II*|*Pandas*|*Seaborn*
-Variables and Data Types (LJ)|Loops/Comprehensions (KD)|Basic Pandas (LJ)|Basic Plotting/Plot Types (KD)
-Conditionals (KD)|Dictionaries (LJ)|Clean/Filter Data (KD)|Plot Customization (LJ)
-Lists (LJ)|Functions (KD)|Aggregate/Apply/GroupBy (LJ)| Plotly/GIFs/Animations (KD)
+*Advanced Constructs*|*Programming Styles*|*Misc*|*Tools*
+Iterators Generators|Functional Programming|Itertools/Functools|Debugger/VSCode
+Decorators|Object-oriented Programming|Context Managers/args and kwargs|CLI
+Dunder Methods|OOP Continued|Type Hints| Git
