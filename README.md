@@ -23,4 +23,4 @@ For questions write in the course discord or drop me a mail: kieran.didi@stud.un
 *Advanced Constructs*|*Programming Styles*|*Misc*|*Tools*
 Iterators/Generators|Functional Programming|Itertools/Functools|Debugger/VSCode
 Closures/Decorators|Object-oriented Programming|Context Managers/args and kwargs|CLI
-Descriptors/Properties/|OOP Continued, Dunder Methods|Type Hints| Git
+Descriptors/Properties|OOP Continued, Dunder Methods|Type Hints| Git
