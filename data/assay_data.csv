@@ -1,0 +1,13 @@
+time,type,activity
+1,WT,20
+1,Mut1,10
+1,Mut2,30
+2,WT,30
+2,Mut1,20
+2,Mut2,10
+3,WT,10
+3,Mut1,30
+3,Mut2,20
+4,WT,20
+4,Mut1,10
+4,Mut2,30
