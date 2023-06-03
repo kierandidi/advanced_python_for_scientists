@@ -18,7 +18,7 @@ For questions write in the course discord or drop me a mail: kieran.didi@stud.un
 
 ## Overview of the course
 
-**03.06**|**04.06**|**10.06**|**11.06**
+**03.06**|**04.06**|**11.06**|**18.06**
 :-----:|:-----:|:-----:|:-----:
 *Advanced Constructs*|*Programming Styles*|*Misc*|*Tools*
 Iterators/Generators|Functional Programming|Itertools/Functools|Debugger/VSCode
