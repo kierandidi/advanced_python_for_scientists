@@ -35,3 +35,6 @@ def read_qr_code(file):
         return data
     else:
         print("QR code not detected")
+
+if __name__ == "__main__":
+    print("Utils executed")
