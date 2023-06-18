@@ -26,6 +26,7 @@ if __name__ == "__main__":
                         help="Style of the QR code. Choices are 'classic', 'dark', 'colorful'. Default is 'classic'.")
 
     args = parser.parse_args()
+    print(args)
 
     if args.style == "classic":
         create_classic_qr_code(args.data, args.filename)
