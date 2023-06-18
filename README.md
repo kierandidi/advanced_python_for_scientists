@@ -1,5 +1,7 @@
 # Advanced Python for Scientists Course
 
+BIG CHANGE!
+
 Heidelberg University, summer semester 2023, organised by [Kieran Didi](https://github.com/kierandidi)
 
 Dear all, 
